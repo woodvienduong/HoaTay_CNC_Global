@@ -1,0 +1,26 @@
+{
+    "cap_nhat":  "2026-10-30 12:44",
+    "plugins":  {
+                    "hoatay_box":  {
+                                       "name":  "HoaTay Box",
+                                       "version":  "2.7.3",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.3.rbz",
+                                       "sha256":  "0d4c81f3a34492cd36b47c42b913f419acba42148b7180523643f9ab3b9e3e0c",
+                                       "ghi_chu":  "Bản gộp 3 plugin, đã ký + mã hoá"
+                                   },
+                    "hoatay_giacong":  {
+                                           "name":  "HoaTay Gia công",
+                                           "version":  "1.0.3",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.3.rbz",
+                                           "sha256":  "6105a177098a4beb4e44456ffc1d4637a288df25efdcc2f3152bd9438f9e9b1a",
+                                           "ghi_chu":  "Bản gộp 3 plugin, đã ký + mã hoá"
+                                       },
+                    "hoatay_cnc":  {
+                                       "name":  "HoaTay CNC",
+                                       "version":  "0.8.3",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.8.3.rbz",
+                                       "sha256":  "8041109eb4c0940785fdbba58e935c68c67ef0cfaefd0a729174e0b12a89df61",
+                                       "ghi_chu":  "Bản gộp 3 plugin, đã ký + mã hoá"
+                                   }
+                }
+}
