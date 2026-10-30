@@ -1,6 +1,6 @@
 # Gói cài HoaTay (mã nguồn mở)
 
-Bản hiện tại: Box 2.7.4, Gia công 1.0.4, CNC 0.8.4 – chưa ký.
+Bản hiện tại: Box 2.7.5, Gia công 1.0.5, CNC 0.8.5 – chưa ký.
 
 **Cài máy mới:** tải `hoatayall.rbz` (cả 3 plugin). SketchUp → Extensions → Extension Manager → bánh răng → **Loading Policy = Unrestricted** → Install Extension → chọn file → mở lại SketchUp.
 
