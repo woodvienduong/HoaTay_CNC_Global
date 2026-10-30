@@ -1,27 +1,28 @@
 {
-    "cap_nhat":  "2026-10-30 17:03",
-    "luu_y":  "Gói chưa ký / chưa mã hoá: SketchUp máy cài cần Loading Policy = Unrestricted. Sẽ ký chuẩn hoá sau.",
+    "cap_nhat":  "2026-10-30 17:44",
+    "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
+    "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
                     "hoatay_box":  {
                                        "name":  "HoaTay Box",
-                                       "version":  "2.7.3",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.3.rbz",
-                                       "sha256":  "84cce9a59ad393b13eabbb21478676768e175664184278ff5e49b70a60569f19",
-                                       "ghi_chu":  "Bản gộp 3 plugin, CHƯA ký (máy cài phải đặt Extension Manager → Loading Policy = Unrestricted)"
+                                       "version":  "2.7.4",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.4.rbz",
+                                       "sha256":  "c32c90d0963eef7448e844dcb3d0beeff2aff8461da8fe8b539f158286f9522b",
+                                       "ghi_chu":  "Sửa lỗi không đặt được box; máy mới tự có thư viện box, kịch bản, luật mẫu"
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.0.3",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.3.rbz",
-                                           "sha256":  "5ca106a660c4890fac495adb8f371a5bebe2486f9697978b4df5153b10629ef4",
-                                           "ghi_chu":  "Bản gộp 3 plugin, CHƯA ký (máy cài phải đặt Extension Manager → Loading Policy = Unrestricted)"
+                                           "version":  "1.0.4",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.4.rbz",
+                                           "sha256":  "7404a8a0975c80dd0fee5db35a17b10e7c3bbaebc7248f646d00b26151ec2b17",
+                                           "ghi_chu":  "Máy cũ: tự gỡ plugin đời cũ"
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "0.8.3",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.8.3.rbz",
-                                       "sha256":  "d451a637348f62634e5b3e51765202bb3e7047f5810e0099baca3873c39803ab",
-                                       "ghi_chu":  "Bản gộp 3 plugin, CHƯA ký (máy cài phải đặt Extension Manager → Loading Policy = Unrestricted)"
+                                       "version":  "0.8.4",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.8.4.rbz",
+                                       "sha256":  "efb4d0056b0dc4cf966d2cf613969a1b2afb46d25d6d68771939e8ddfcc99b2b",
+                                       "ghi_chu":  "Chạy được trên SketchUp đời mới (Ruby 3.4)"
                                    }
                 }
 }
