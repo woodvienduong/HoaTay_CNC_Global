@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-10-31 18:07",
+    "cap_nhat":  "2026-10-31 22:19",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.3",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.3.rbz",
-                                       "sha256":  "9b79640654b7bd11d6b51ddb4ee0560b1d28b7d0a08bc8241874b42fcd8c85ae",
-                                       "ghi_chu":  "Logo HoaTay mới trên tem: nét đen đặc, nền trong, in máy in nhiệt rõ nét"
+                                       "version":  "1.0.4",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.4.rbz",
+                                       "sha256":  "3055318c2bdd4919f941ef3b99f01db3a142f1744d8fddccb5a7e811643b26ba",
+                                       "ghi_chu":  "Xếp ván: xem từng loại ván (bấm loại nào xem loại đó); bảng Layer chọn kiểu chạy Cắt trong / Vector / Phay hốc / Cắt ngoài / Bỏ qua, số lượt; layer chưa có luật hiện đỏ và thiết lập ngay tại chỗ; xuất G-code phay hốc và cắt ngoài"
                                    }
                 }
 }
