@@ -1,28 +1,28 @@
 {
-    "cap_nhat":  "2026-10-30 17:44",
+    "cap_nhat":  "2026-10-30 22:39",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
                     "hoatay_box":  {
                                        "name":  "HoaTay Box",
-                                       "version":  "2.7.4",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.4.rbz",
-                                       "sha256":  "c32c90d0963eef7448e844dcb3d0beeff2aff8461da8fe8b539f158286f9522b",
-                                       "ghi_chu":  "Sửa lỗi không đặt được box; máy mới tự có thư viện box, kịch bản, luật mẫu"
+                                       "version":  "2.7.5",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.5.rbz",
+                                       "sha256":  "64cb22c3301cbcf5625456914724e9c849c1ce190f380a2cc5bf655e805ac054",
+                                       "ghi_chu":  "Tạo góc tự dựng da giảm (không cần mẫu góc), gõ số đổi bề rộng; tủ bẻ góc có da giảm 17,5 hoặc rộng khi chạm tường"
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.0.4",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.4.rbz",
-                                           "sha256":  "7404a8a0975c80dd0fee5db35a17b10e7c3bbaebc7248f646d00b26151ec2b17",
-                                           "ghi_chu":  "Máy cũ: tự gỡ plugin đời cũ"
+                                           "version":  "1.0.5",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.5.rbz",
+                                           "sha256":  "32bd8b95396d5ee0f03a0d970c2e826ece98f9a18fa584936c366d21a394221a",
+                                           "ghi_chu":  "Luật mới K-12, K-13 (da giảm)"
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "0.8.4",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.8.4.rbz",
-                                       "sha256":  "efb4d0056b0dc4cf966d2cf613969a1b2afb46d25d6d68771939e8ddfcc99b2b",
-                                       "ghi_chu":  "Chạy được trên SketchUp đời mới (Ruby 3.4)"
+                                       "version":  "0.8.6",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.8.6.rbz",
+                                       "sha256":  "8a608bbd8e9da26f3a8d0d6afd9d5eb3eb8209233943c433ba03defceaf6be21",
+                                       "ghi_chu":  "Xuất G-code: gõ tên công trình và mẫu tên file lúc xuất; luật mới K-12, K-13"
                                    }
                 }
 }
