@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-10-31 13:01",
+    "cap_nhat":  "2026-10-31 17:15",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "0.9.8",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.9.8.rbz",
-                                       "sha256":  "87ca89bc99a5dbfb65fd4b1caa6b8c690f1aba363c79253cbba86450ef4db7d6",
-                                       "ghi_chu":  "Luật nằm trong Cài đặt chung; xếp tay như OneClick; tem mã vạch, QR/logo; in nhãn"
+                                       "version":  "0.9.9",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.9.9.rbz",
+                                       "sha256":  "0c680ed53d9e786f2f570844fea00c1ef70031db8dbbf6941df4dca11a85634e",
+                                       "ghi_chu":  "Nhãn giống tem OneClick: hình chi tiết to, đúng hình thật và đúng hướng nằm trên ván; ký hiệu dán cạnh viết ngoài cạnh, chạy dọc theo cạnh"
                                    }
                 }
 }
