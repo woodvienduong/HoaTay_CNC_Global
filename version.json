@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-10-31 17:43",
+    "cap_nhat":  "2026-10-31 18:03",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.1",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.1.rbz",
-                                       "sha256":  "e5124b3019f15c9beda707a81605058a06dae937aef2498bb5fea28c48ff0817",
-                                       "ghi_chu":  "Kho ván thừa: tấm đánh dấu Ván thừa tự vào kho khi xuất G-code; bấm Dùng để lấy tấm kho làm ván xếp chi tiết, xuất xong tự rời kho"
+                                       "version":  "1.0.2",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.2.rbz",
+                                       "sha256":  "fc95e5b664d9cd94295c4bc0cc9a1e06f104d4b93c9e3dea73a62475cd9fa581",
+                                       "ghi_chu":  "Bấm tấm thiếu vật liệu / tấm lỗi: tấm hiện lên ngay giữa màn hình (mở đúng tấm, phần khác mờ), hộp Xếp ván tạm đóng thay bằng ô Sửa tấm nhỏ: chọn vật liệu bấm Gán là xong, Tấm lỗi kế, Xong – về Xếp ván"
                                    }
                 }
 }
