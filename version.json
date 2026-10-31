@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-10-31 22:21",
+    "cap_nhat":  "2026-10-31 22:25",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.5",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.5.rbz",
-                                       "sha256":  "5dacb64c2fe02a1e76fb82832f4ad81803576d80e492afa4dc57018b4c509911",
-                                       "ghi_chu":  "Xếp ván gọn hơn: chỉ xem từng loại ván, bỏ nút Tất cả"
+                                       "version":  "1.0.6",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.6.rbz",
+                                       "sha256":  "1427ae71cda6b569f264e00dd1e09a9111f41288c091ab31065b212c90520663",
+                                       "ghi_chu":  "Xếp ván gọn: Tấm trong tấm chuyển vào Cài đặt chung (mặc định tắt); bỏ ô Ván mới, nút Chuyển và Bỏ ra ngoài ván (kéo thả vẫn dùng được)"
                                    }
                 }
 }
