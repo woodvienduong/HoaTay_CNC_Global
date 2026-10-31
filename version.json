@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-10-31 17:32",
+    "cap_nhat":  "2026-10-31 17:43",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.0",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.0.rbz",
-                                       "sha256":  "9784e770c9de497e4577a7d00a8dddb5bc2702fed98f08def5e3ebf37eb904d6",
-                                       "ghi_chu":  "Xếp ván tay như OneClick: xoay góc tuỳ ý (R / Shift+R, gõ số độ), kéo chi tiết ra ngoài ván để tạm cạnh ván rồi kéo lại vào chỗ muốn đặt, công cụ Hình chữ nhật vẽ ván tận dụng thành chi tiết thật (cắt, đánh số, in nhãn)"
+                                       "version":  "1.0.1",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.1.rbz",
+                                       "sha256":  "e5124b3019f15c9beda707a81605058a06dae937aef2498bb5fea28c48ff0817",
+                                       "ghi_chu":  "Kho ván thừa: tấm đánh dấu Ván thừa tự vào kho khi xuất G-code; bấm Dùng để lấy tấm kho làm ván xếp chi tiết, xuất xong tự rời kho"
                                    }
                 }
 }
