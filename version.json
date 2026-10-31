@@ -1,14 +1,14 @@
 {
-    "cap_nhat":  "2026-10-31 23:15",
+    "cap_nhat":  "2026-10-31 23:20",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
                     "hoatay_box":  {
                                        "name":  "HoaTay Box",
-                                       "version":  "2.7.7",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.7.rbz",
-                                       "sha256":  "36bb4455882e9275d0b85b971281a6dfa5831fb2954d04695422fb5225581143",
-                                       "ghi_chu":  "Luật nằm trong Cài đặt; Tạo góc tự dựng da giảm"
+                                       "version":  "2.7.8",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.8.rbz",
+                                       "sha256":  "3db9e0bf8fc7f20c006435dda663bfb6022b7af06b4c21eef8f26d653131a46e",
+                                       "ghi_chu":  "Đổi vị trí nút trên thanh công cụ: Hiển thị tính năng có nút ▲ ▼ để sắp xếp theo ý, đổi ngay, nhớ cho lần sau; Về thứ tự gốc"
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
