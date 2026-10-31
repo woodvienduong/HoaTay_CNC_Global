@@ -1,28 +1,28 @@
 {
-    "cap_nhat":  "2026-10-31 12:57",
+    "cap_nhat":  "2026-10-31 13:01",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
                     "hoatay_box":  {
                                        "name":  "HoaTay Box",
-                                       "version":  "2.7.6",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.6.rbz",
-                                       "sha256":  "a39c8d8d5f70d064331b57939cc63809bf5f2d4bc750ad761cd1af859510f015",
-                                       "ghi_chu":  "Nút Luật trên thanh công cụ; Tạo góc tự dựng da giảm"
+                                       "version":  "2.7.7",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.7.7.rbz",
+                                       "sha256":  "36bb4455882e9275d0b85b971281a6dfa5831fb2954d04695422fb5225581143",
+                                       "ghi_chu":  "Luật nằm trong Cài đặt; Tạo góc tự dựng da giảm"
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.0.7",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.7.rbz",
-                                           "sha256":  "db32efa24c6807903cedc1e2229852acc655d9e61d46d873a4e678313f02d865",
-                                           "ghi_chu":  "Dán cạnh như OneClick: tick loại nẹp, bấm cạnh tấm; chuẩn OneClick"
+                                           "version":  "1.0.8",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.0.8.rbz",
+                                           "sha256":  "c0dfba53a31a6067e92a16ffa1453d84ef829d599b5acb895fa0d14e5aa9f97f",
+                                           "ghi_chu":  "Luật nằm trong Cài đặt; Dán cạnh như OneClick"
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "0.9.7",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.9.7.rbz",
-                                       "sha256":  "bbe9b2467600914ded76c61f025ad62a444e5ea0ec56d164367017f9e553cfe1",
-                                       "ghi_chu":  "Xếp tay như OneClick: thanh nút dọc (thêm/xóa/xếp lại tấm, thước đo, tìm theo ID…); tem mã vạch, QR/logo; in nhãn; tấm trong tấm"
+                                       "version":  "0.9.8",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v0.9.8.rbz",
+                                       "sha256":  "87ca89bc99a5dbfb65fd4b1caa6b8c690f1aba363c79253cbba86450ef4db7d6",
+                                       "ghi_chu":  "Luật nằm trong Cài đặt chung; xếp tay như OneClick; tem mã vạch, QR/logo; in nhãn"
                                    }
                 }
 }
