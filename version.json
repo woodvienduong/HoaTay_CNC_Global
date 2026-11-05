@@ -1,14 +1,14 @@
 {
-    "cap_nhat":  "2026-11-05 17:21",
+    "cap_nhat":  "2026-11-05 17:37",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
                     "hoatay_box":  {
                                        "name":  "HoaTay Box",
-                                       "version":  "2.8.1",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.1.rbz",
-                                       "sha256":  "6ea748d2a460e514f5467b35af13fd9d40a7a7c036813face23fdc9b58ae1e09",
-                                       "ghi_chu":  "Đưa nút Lưu kịch bản ra lại thanh công cụ"
+                                       "version":  "2.8.2",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.2.rbz",
+                                       "sha256":  "cee4165cc55e22f2066436961f2c55a79db555744f7a57338805938abdbd2a1f",
+                                       "ghi_chu":  "Dựng kịch bản khác cỡ mẫu: đợt, cánh, hộc co giãn theo khoang, không đâm vào vách"
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
