@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-05 17:49",
+    "cap_nhat":  "2026-11-06 07:20",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.7",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.7.rbz",
-                                       "sha256":  "da4a00534ce6964b521592300020c32d7815340ed4905060d688262a6176dc9a",
-                                       "ghi_chu":  "Hiển thị tính năng: nút lên / xuống đổi được thứ tự trên thanh công cụ CNC"
+                                       "version":  "1.0.8",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.8.rbz",
+                                       "sha256":  "9df36df54256a1d91c44c031bb51026eb50a8f1f4431cdf988f3c2955633c424",
+                                       "ghi_chu":  "Mô phỏng đường cắt; Xếp ván hiện màu vật liệu; sửa lỗ tròn, rãnh hậu sâu mặc định 9 chỉnh ở Layer, khe hẹp không lẹm, báo chồng đúng theo hình thật. Còn: góc tấm ngoài lệch 0,2 mm; góc lõm của hốc và miệng khe 0,23-0,3 mm; cắt ngoài vẫn chạy đoạn thẳng, chưa có cung tròn."
                                    }
                 }
 }
