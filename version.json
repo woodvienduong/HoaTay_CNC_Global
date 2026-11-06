@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-06 14:21",
+    "cap_nhat":  "2026-11-06 19:17",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.11",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.11.rbz",
-                                       "sha256":  "fe8782fda93b8bedbea8869a47cf5942b4894baf32ac73f2281bf1fb472aab25",
-                                       "ghi_chu":  "Xếp tự động theo vân cả tấm chỉ có custom_grain. Xếp tay: thả không còn lệch gây báo chồng, tự hít trong 5 mm; tấm chồng hiện đỏ rõ, mũi tên xanh. Còn: góc tấm ngoài lệch 0,2 mm; góc lõm của hốc và miệng khe 0,23-0,3 mm; cắt ngoài vẫn chạy đoạn thẳng, chưa có cung tròn."
+                                       "version":  "1.0.12",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.12.rbz",
+                                       "sha256":  "110d94792e77a53914bc413c5d5e81fbefaa73e662c1098407a38b383daac9d2",
+                                       "ghi_chu":  "Sửa lỗ thủng trong tấm: lỗ hiện trắng trong Xếp ván, lỗ oval cắt được (trước đây bị bỏ qua), Tấm trong tấm chèn được vào lỗ tròn và oval, tấm nhỏ cắt trước lỗ, lỗ có đường Layer không cắt 2 lần."
                                    }
                 }
 }
