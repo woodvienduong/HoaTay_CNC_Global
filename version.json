@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-06 07:20",
+    "cap_nhat":  "2026-11-06 11:28",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -12,17 +12,17 @@
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.1.0",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.0.rbz",
-                                           "sha256":  "b9786e493858a36a4b8cf003587331c045df1f260349bee642ed89ff8f7f6a6d",
-                                           "ghi_chu":  "Bộ icon mới kiểu nét đậm – nét lợt"
+                                           "version":  "1.1.1",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
+                                           "sha256":  "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
+                                           "ghi_chu":  "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.8",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.8.rbz",
-                                       "sha256":  "9df36df54256a1d91c44c031bb51026eb50a8f1f4431cdf988f3c2955633c424",
-                                       "ghi_chu":  "Mô phỏng đường cắt; Xếp ván hiện màu vật liệu; sửa lỗ tròn, rãnh hậu sâu mặc định 9 chỉnh ở Layer, khe hẹp không lẹm, báo chồng đúng theo hình thật. Còn: góc tấm ngoài lệch 0,2 mm; góc lõm của hốc và miệng khe 0,23-0,3 mm; cắt ngoài vẫn chạy đoạn thẳng, chưa có cung tròn."
+                                       "version":  "1.0.9",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.9.rbz",
+                                       "sha256":  "2e4df38023576d03388d6a5fbf6cdf561783cfc3d82d9988351a35fa955d9b29",
+                                       "ghi_chu":  "Xếp tự động theo chiều vân OneClick; Danh sách chi tiết sửa được Tên, Nhóm, Góc vân; ID tấm không trùng; tem in ID và sheet1; Gắn nhãn, Xóa nhãn chuyển về CNC. Còn: góc tấm ngoài lệch 0,2 mm; góc lõm của hốc và miệng khe 0,23-0,3 mm; cắt ngoài vẫn chạy đoạn thẳng, chưa có cung tròn."
                                    }
                 }
 }
