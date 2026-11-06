@@ -1,28 +1,28 @@
 {
-    "cap_nhat":  "2026-11-07 00:59",
-    "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
-    "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
-    "plugins":  {
-                    "hoatay_box":  {
-                                       "name":  "HoaTay Box",
-                                       "version":  "2.8.3",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.3.rbz",
-                                       "sha256":  "97c8f28a8e25c9cb3c41e8adbd9770930bce6eb2b3c672103426a7444070a5ce",
-                                       "ghi_chu":  "Dựng hình tự đặt tên tấm khung theo vị trí thật (Hồi trái/phải, Ốp hông, Tấm đáy, Tấm nóc, Hậu, Giằng trên, Len chân, Thanh chia đứng/ngang, Nẹp đứng), bỏ mã [NN] chép từ mẫu, tủ trùng tên thêm (2)."
-                                   },
-                    "hoatay_giacong":  {
-                                           "name":  "HoaTay Gia công",
-                                           "version":  "1.1.1",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
-                                           "sha256":  "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
-                                           "ghi_chu":  "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
-                                       },
-                    "hoatay_cnc":  {
-                                       "name":  "HoaTay CNC",
-                                       "version":  "1.0.13",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.13.rbz",
-                                       "sha256":  "0b63d9bca77ed68b70c8828ab2c7f99189cb8ef291e23ed2bec185587966be23",
-                                       "ghi_chu":  "Hèm kính chỉ phay vành, lỗ tròn và oval nhận tấm nhỏ tốt hơn, Tấm trong tấm bật sẵn, Kho tận dụng, Đơn đặt cánh, xuất nhập cài đặt, ô số lần thử xếp ván, ván thừa hiện màu và dùng được cho ván khác màu cùng độ dày."
-                                   }
-                }
+    "cap_nhat": "2026-11-07 07:00",
+    "luu_y": "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
+    "cai_may_moi": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
+    "plugins": {
+        "hoatay_box": {
+            "name": "HoaTay Box",
+            "version": "2.8.4",
+            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.4.rbz",
+            "sha256": "33822f48a17ac9f262c48679d90fcd3b41adc0104904697bbf5da9b6e0b549c9",
+            "ghi_chu": "Xoá hẳn Khung phụ (chưa làm xong, không dùng). Vẫn có tự đặt tên tấm khung khi Dựng hình (2.8.3)."
+        },
+        "hoatay_giacong": {
+            "name": "HoaTay Gia công",
+            "version": "1.1.1",
+            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
+            "sha256": "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
+            "ghi_chu": "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
+        },
+        "hoatay_cnc": {
+            "name": "HoaTay CNC",
+            "version": "1.0.13",
+            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.13.rbz",
+            "sha256": "0b63d9bca77ed68b70c8828ab2c7f99189cb8ef291e23ed2bec185587966be23",
+            "ghi_chu": "Hèm kính chỉ phay vành, lỗ tròn và oval nhận tấm nhỏ tốt hơn, Tấm trong tấm bật sẵn, Kho tận dụng, Đơn đặt cánh, xuất nhập cài đặt, ô số lần thử xếp ván, ván thừa hiện màu và dùng được cho ván khác màu cùng độ dày."
+        }
+    }
 }
