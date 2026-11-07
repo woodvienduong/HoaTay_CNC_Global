@@ -1,28 +1,28 @@
 {
-    "cap_nhat": "2026-11-07 08:15",
-    "luu_y": "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
-    "cai_may_moi": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
-    "plugins": {
-        "hoatay_box": {
-            "name": "HoaTay Box",
-            "version": "2.8.6",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.6.rbz",
-            "sha256": "0fa4c222f6ed44f4db120da6bc2c04ce20d5a6b1cc9ff45fa96dac6fee1d0afe",
-            "ghi_chu": "Nối tủ xong tự đặt lại tên tấm: chỉ 2 đầu là Hồi trái/phải, hồi ở chỗ nối thành Thanh chia đứng 1, 2…"
-        },
-        "hoatay_giacong": {
-            "name": "HoaTay Gia công",
-            "version": "1.1.1",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
-            "sha256": "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
-            "ghi_chu": "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
-        },
-        "hoatay_cnc": {
-            "name": "HoaTay CNC",
-            "version": "1.0.13",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.13.rbz",
-            "sha256": "0b63d9bca77ed68b70c8828ab2c7f99189cb8ef291e23ed2bec185587966be23",
-            "ghi_chu": "Hèm kính chỉ phay vành, lỗ tròn và oval nhận tấm nhỏ tốt hơn, Tấm trong tấm bật sẵn, Kho tận dụng, Đơn đặt cánh, xuất nhập cài đặt, ô số lần thử xếp ván, ván thừa hiện màu và dùng được cho ván khác màu cùng độ dày."
-        }
-    }
+    "cap_nhat":  "2026-11-07 09:27",
+    "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
+    "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
+    "plugins":  {
+                    "hoatay_box":  {
+                                       "name":  "HoaTay Box",
+                                       "version":  "2.8.6",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.6.rbz",
+                                       "sha256":  "0fa4c222f6ed44f4db120da6bc2c04ce20d5a6b1cc9ff45fa96dac6fee1d0afe",
+                                       "ghi_chu":  "Nối tủ xong tự đặt lại tên tấm: chỉ 2 đầu là Hồi trái/phải, hồi ở chỗ nối thành Thanh chia đứng 1, 2…"
+                                   },
+                    "hoatay_giacong":  {
+                                           "name":  "HoaTay Gia công",
+                                           "version":  "1.1.1",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
+                                           "sha256":  "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
+                                           "ghi_chu":  "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
+                                       },
+                    "hoatay_cnc":  {
+                                       "name":  "HoaTay CNC",
+                                       "version":  "1.0.14",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.14.rbz",
+                                       "sha256":  "0624f49a463da6375aacaef43c108cf49bd41535749d81477b287cee43af1b14",
+                                       "ghi_chu":  "Đơn đặt cánh theo mẫu xưởng: mỗi cánh 1 dòng, logo, tên theo file SketchUp, tấm theo hình tự vẽ hình; ô Layer nhận biết cánh kính trong Cài đặt chung."
+                                   }
+                }
 }
