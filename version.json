@@ -1,5 +1,5 @@
 {
-    "cap_nhat": "2026-11-07 13:50",
+    "cap_nhat": "2026-11-07 18:50",
     "luu_y": "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins": {
@@ -12,10 +12,10 @@
         },
         "hoatay_giacong": {
             "name": "HoaTay Gia công",
-            "version": "1.1.1",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.1.rbz",
-            "sha256": "6131f39f6bf695ac12e277511d5b3fe03741e5d99f30cf7691264accbeda50ec",
-            "ghi_chu": "Gắn nhãn, Xóa nhãn chuyển sang HoaTay CNC. Xoay vân giữ ở đây, nhãn đã gắn xoay theo nhờ CNC."
+            "version": "1.1.2",
+            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.2.rbz",
+            "sha256": "4b10e5eee16b1b0e8178b68d31ec2d778d37137a12c3ef870c682d954994dbb4",
+            "ghi_chu": "Thư viện vật liệu: bảng nhỏ gọn, lưu nhiều thư mục hãng; bấm màu là tô ngay (bấm tấm = tấm, bấm khối tủ = cả khối, Ctrl = 1 tấm, Alt = lấy mẫu màu); tự xoá màu cũ trước khi tô."
         },
         "hoatay_cnc": {
             "name": "HoaTay CNC",
