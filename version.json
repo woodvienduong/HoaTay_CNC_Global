@@ -1,14 +1,14 @@
 {
-    "cap_nhat": "2026-11-07 07:40",
+    "cap_nhat": "2026-11-07 08:15",
     "luu_y": "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins": {
         "hoatay_box": {
             "name": "HoaTay Box",
-            "version": "2.8.5",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.5.rbz",
-            "sha256": "d8ff50b148ea93d32c1c17ae66d78fb4aa3ed43910a060b5f96e86189cd89c36",
-            "ghi_chu": "Tạo góc bếp trên: tủ bẻ góc giữ nguyên nóc, đáy, hậu, giằng chạm tủ góc, chỉ hồi lùi, nẹp lọt giữa nóc và đáy; mẫu có sẵn nẹp/da giảm không bị thêm bộ thứ 2."
+            "version": "2.8.6",
+            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.6.rbz",
+            "sha256": "0fa4c222f6ed44f4db120da6bc2c04ce20d5a6b1cc9ff45fa96dac6fee1d0afe",
+            "ghi_chu": "Nối tủ xong tự đặt lại tên tấm: chỉ 2 đầu là Hồi trái/phải, hồi ở chỗ nối thành Thanh chia đứng 1, 2…"
         },
         "hoatay_giacong": {
             "name": "HoaTay Gia công",
