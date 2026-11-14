@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-14 08:35",
+    "cap_nhat":  "2026-11-14 15:44",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -12,10 +12,10 @@
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.1.2",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.2.rbz",
-                                           "sha256":  "4b10e5eee16b1b0e8178b68d31ec2d778d37137a12c3ef870c682d954994dbb4",
-                                           "ghi_chu":  "Thư viện vật liệu: bảng nhỏ gọn, lưu nhiều thư mục hãng; bấm màu là tô ngay (bấm tấm = tấm, bấm khối tủ = cả khối, Ctrl = 1 tấm, Alt = lấy mẫu màu); tự xoá màu cũ trước khi tô."
+                                           "version":  "1.1.3",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.3.rbz",
+                                           "sha256":  "dbce032a22bda25826e3ec822c443783d0ad30474e35506260984741a72dcc78",
+                                           "ghi_chu":  "Liên kết: X-ray tự bật, rê chuột nhạy hơn. Mộng: bỏ tấm hậu mỏng, chia theo khoảng cách, tự giảm số mộng khi thiếu chỗ, mộng âm mặt đối diện, Kèm chốt cam hai đầu. Cam: mối ngắn còn 1 liên kết, chốt mặt đối diện. Ngàm định vị: bấm chọn giằng, tự tìm tấm đứng, chặn ngàm khi đã khấu. Chọn đúng tấm trên tủ có nhiều bản sao."
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
