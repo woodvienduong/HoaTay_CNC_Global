@@ -1,28 +1,28 @@
 {
-    "cap_nhat": "2026-11-07 18:50",
-    "luu_y": "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
-    "cai_may_moi": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
-    "plugins": {
-        "hoatay_box": {
-            "name": "HoaTay Box",
-            "version": "2.8.7",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.7.rbz",
-            "sha256": "547e4f35206b5ad5efd8655b7fbd7c8d1c91d739de06343d20c8e75c80852d9b",
-            "ghi_chu": "Nối dọc tủ chồng: tấm đáy/nóc ở chỗ nối đổi tên thành Thanh chia ngang 1, 2… Nối ngang: hồi giữa thành Thanh chia đứng (2.8.6)."
-        },
-        "hoatay_giacong": {
-            "name": "HoaTay Gia công",
-            "version": "1.1.2",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.2.rbz",
-            "sha256": "4b10e5eee16b1b0e8178b68d31ec2d778d37137a12c3ef870c682d954994dbb4",
-            "ghi_chu": "Thư viện vật liệu: bảng nhỏ gọn, lưu nhiều thư mục hãng; bấm màu là tô ngay (bấm tấm = tấm, bấm khối tủ = cả khối, Ctrl = 1 tấm, Alt = lấy mẫu màu); tự xoá màu cũ trước khi tô."
-        },
-        "hoatay_cnc": {
-            "name": "HoaTay CNC",
-            "version": "1.0.14",
-            "url": "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.14.rbz",
-            "sha256": "0624f49a463da6375aacaef43c108cf49bd41535749d81477b287cee43af1b14",
-            "ghi_chu": "Đơn đặt cánh theo mẫu xưởng: mỗi cánh 1 dòng, logo, tên theo file SketchUp, tấm theo hình tự vẽ hình; ô Layer nhận biết cánh kính trong Cài đặt chung."
-        }
-    }
+    "cap_nhat":  "2026-11-14 08:35",
+    "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
+    "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
+    "plugins":  {
+                    "hoatay_box":  {
+                                       "name":  "HoaTay Box",
+                                       "version":  "2.8.7",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_Box_v2.8.7.rbz",
+                                       "sha256":  "547e4f35206b5ad5efd8655b7fbd7c8d1c91d739de06343d20c8e75c80852d9b",
+                                       "ghi_chu":  "Nối dọc tủ chồng: tấm đáy/nóc ở chỗ nối đổi tên thành Thanh chia ngang 1, 2… Nối ngang: hồi giữa thành Thanh chia đứng (2.8.6)."
+                                   },
+                    "hoatay_giacong":  {
+                                           "name":  "HoaTay Gia công",
+                                           "version":  "1.1.2",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.2.rbz",
+                                           "sha256":  "4b10e5eee16b1b0e8178b68d31ec2d778d37137a12c3ef870c682d954994dbb4",
+                                           "ghi_chu":  "Thư viện vật liệu: bảng nhỏ gọn, lưu nhiều thư mục hãng; bấm màu là tô ngay (bấm tấm = tấm, bấm khối tủ = cả khối, Ctrl = 1 tấm, Alt = lấy mẫu màu); tự xoá màu cũ trước khi tô."
+                                       },
+                    "hoatay_cnc":  {
+                                       "name":  "HoaTay CNC",
+                                       "version":  "1.0.15",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.15.rbz",
+                                       "sha256":  "4c5b537189f04155912ef9dec19ef6581dac2cf05f929abb17c9a23b1f05a411",
+                                       "ghi_chu":  "Thứ tự cắt và điểm xuống dao chống bay tấm; xếp nhanh hơn nhiều; tấm xoay tự do chỉ xoay khi có lợi; nút Gắn nhãn, Chiều vân gỗ; icon mới; lỗ Theo vector có tấm con cắt sau tấm con"
+                                   }
+                }
 }
