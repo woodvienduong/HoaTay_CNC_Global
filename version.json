@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-15 07:42",
+    "cap_nhat":  "2026-11-21 21:23",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -12,10 +12,10 @@
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.1.4",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.4.rbz",
-                                           "sha256":  "686e5186dc414e5f6eab1ef48d1bf0507e6bc8dd0ef1dd7b0db51f8345569813",
-                                           "ghi_chu":  "Tạo hộc (Liên kết): rê khoang tạo hộc kéo, đáy phủ/âm, cánh phủ/giữa/lọt theo khung, tự xẻ rãnh và đánh dấu ray"
+                                           "version":  "1.1.5",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.5.rbz",
+                                           "sha256":  "05f0522e3371c195b6f539df1c06cb4675300be18c096a1453f3958c62cae63b",
+                                           "ghi_chu":  "Tạo hộc chặn / chia 2x2, Mộng và Khấu / Âm dương / Khử xem trước như ZSU, khấu thủ công, lệnh mới Tạo cánh và Bản lề (tự nhận LỀ A/B/C, tránh đợt, lỗ CNC đọc được)"
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
