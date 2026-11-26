@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-26 15:50",
+    "cap_nhat":  "2026-11-27 00:41",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -12,10 +12,10 @@
                                    },
                     "hoatay_giacong":  {
                                            "name":  "HoaTay Gia công",
-                                           "version":  "1.1.5",
-                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.5.rbz",
-                                           "sha256":  "05f0522e3371c195b6f539df1c06cb4675300be18c096a1453f3958c62cae63b",
-                                           "ghi_chu":  "Tạo hộc chặn / chia 2x2, Mộng và Khấu / Âm dương / Khử xem trước như ZSU, khấu thủ công, lệnh mới Tạo cánh và Bản lề (tự nhận LỀ A/B/C, tránh đợt, lỗ CNC đọc được)"
+                                           "version":  "1.1.6",
+                                           "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_GiaCong_v1.1.6.rbz",
+                                           "sha256":  "0c401d18e1056215bd00bed2f34a6641b97fa8dfca044485efc566fe983c39e7",
+                                           "ghi_chu":  "Tạo hộc / Tạo cánh nhận khoang tủ áo (vách, đợt lùi vào; cánh trong nhóm; báo đỏ khoang đã có cánh / hộc); Mộng âm mặt đối diện: lỗ khoan mồi đảo theo; Ray: thêm Ray bi (hốc tai ABF_HOC_RAY) và Ray giảm chấn phụ kiện (lỗ Ø3 ABF_D3 + viền ABF_RAY), dịch ra/vào bằng ô đo"
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
