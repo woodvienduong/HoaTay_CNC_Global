@@ -1,5 +1,5 @@
 {
-    "cap_nhat":  "2026-11-21 21:23",
+    "cap_nhat":  "2026-11-26 15:50",
     "luu_y":  "Mã nguồn mở, gói chưa ký: SketchUp máy cài cần Loading Policy = Unrestricted.",
     "cai_may_moi":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/hoatayall.rbz",
     "plugins":  {
@@ -19,10 +19,10 @@
                                        },
                     "hoatay_cnc":  {
                                        "name":  "HoaTay CNC",
-                                       "version":  "1.0.15",
-                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.15.rbz",
-                                       "sha256":  "4c5b537189f04155912ef9dec19ef6581dac2cf05f929abb17c9a23b1f05a411",
-                                       "ghi_chu":  "Thứ tự cắt và điểm xuống dao chống bay tấm; xếp nhanh hơn nhiều; tấm xoay tự do chỉ xoay khi có lợi; nút Gắn nhãn, Chiều vân gỗ; icon mới; lỗ Theo vector có tấm con cắt sau tấm con"
+                                       "version":  "1.0.16",
+                                       "url":  "https://raw.githubusercontent.com/woodvienduong/HoaTay_CNC_Global/main/releases/HoaTay_CNC_v1.0.16.rbz",
+                                       "sha256":  "089fbcde1a6c53881c6036219fc8a333d6bbaea7e80ee7f3f7c85bf3ce9083ab",
+                                       "ghi_chu":  "Vá gai đường dao khe V, làm trơn góc bo; ván đầu kín nhất; phay hốc vòng đồng tâm; nút Đặt tên kiểu OneClick; Ctrl+Z/Ctrl+Y, giữ phóng to khi xếp tay; bỏ qua ABF_KH/ABF_HM"
                                    }
                 }
 }
